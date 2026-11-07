@@ -1,0 +1,14 @@
+{
+  "main_metrics": {
+    "Recall@1": 0.03137254901960784,
+    "Recall@5": 0.10980392156862745,
+    "Recall@10": 0.1843137254901961,
+    "MRR": 0.09016549169854197
+  },
+  "style_data_gap": {
+    "same_data_diff_style": 0.8111222594976425,
+    "diff_data_same_style": 0.4551997536368537,
+    "gap": 0.3559225058607888
+  },
+  "counterfactual_accuracy": 0.77
+}
